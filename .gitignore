@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.memory.lock
+.history/
+config.local.json
+
